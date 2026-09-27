@@ -212,5 +212,4 @@ pd.DataFrame({'id': test_df['id'], 'total_sales': preds}).to_csv('submission.csv
 
 ---
 
-### ⭐ If this helped you, give it a star! Built for DSN Hackathon - Let's win this!
 
