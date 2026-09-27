@@ -9,6 +9,7 @@
 > **An end-to-end machine learning pipeline that predicts total sales for retail products across Nigerian supermarket chains, with a deployable Streamlit intelligence dashboard featuring batch test.csv upload.**
 
 ---
+Link to the APP: https://martsalesprediction-mdm2xfcoabcfc7wcnx5zen.streamlit.app/
 
 ## 📋 Table of Contents
 - [Problem Statement](#-problem-statement)
